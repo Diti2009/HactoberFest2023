@@ -27,4 +27,4 @@
 | Jeelwin | <a href="https://github.com/jeelwin"> Jeelwin </a>|
 | Marina J | <a href="https://github.com/marinajcs"> marinajcs </a>|
 | Diapk Kurkute| <a href="https://github.com/dipak-01"> dipak-01 </a>|
-|Ditpriya Bhattacharyya| <a href= "https://github.com/diti2009"> diti2009-01</a>|
+|Ditpriya Bhattacharyya| <a href= "https://github.com/diti2009"> diti2009</a>|
